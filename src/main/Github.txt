@@ -1,0 +1,15 @@
+1) git init
+2) git add .
+3)git commit -m "Initial commit - Spring Boot project setup"
+4)Connect to GitHub
+git remote add origin https://github.com/your-username/repository-name.git
+5)git branch -M main
+6)git push -u origin main
+
+PART 2 — Regular Daily Push Workflow
+
+
+git pull origin main
+git add .
+git commit -m "Added Product Mapper logic"
+git push origin main
